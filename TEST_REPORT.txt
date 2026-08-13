@@ -1,0 +1,9 @@
+Formix_badges FINAL — validation
+===============================
+Filters: 22
+PNG total: 22
+Updated image URLs: 22
+Regex errors: 0
+Missing image refs: 0
+Old repo URLs remaining: 0
+External image URLs: 0
